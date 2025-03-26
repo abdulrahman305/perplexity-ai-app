@@ -15,7 +15,7 @@
   "author": "inulute",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^31.3.0",
+    "electron": "^33.4.6",
     "electron-builder": "^24.13.3"
   },
   "dependencies": {
