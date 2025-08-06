@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "csso": "^5.0.5",
-    "electron": "^33.0.2",
+    "electron": "^37.2.5",
     "electron-builder": "^25.1.8",
     "javascript-obfuscator": "^4.1.1"
   },
